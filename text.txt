@@ -1,1 +1,5 @@
-text2
+<<<<<<< HEAD
+text1
+=======
+text1
+>>>>>>> master
